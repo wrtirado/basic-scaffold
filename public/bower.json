@@ -1,0 +1,21 @@
+{
+  "name": "ws-calendar-app",
+  "homepage": "https://github.com/ChristianMMacy/RU_WSCalApp",
+  "authors": [
+    "Christian M. Macy <christian.m.macy@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
